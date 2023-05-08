@@ -18,6 +18,11 @@ division
 
 ![Screenshot (82)](https://user-images.githubusercontent.com/112294762/236882349-e69140ea-f4c1-4bc1-b51e-bc7679117714.png)
 
+scatter plot
+
+![Screenshot (84)](https://user-images.githubusercontent.com/112294762/236884141-0900d634-dfaa-4f9b-bf62-9321b7f63c3b.png)
+
+
 
 
 
