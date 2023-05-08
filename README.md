@@ -10,4 +10,9 @@ addition
 
 ![Screenshot (78)](https://user-images.githubusercontent.com/112294762/236881008-7c7d32d4-5e83-4845-884c-2eacb557fa46.png)
 
+multiplication
+
+![Screenshot (80)](https://user-images.githubusercontent.com/112294762/236881899-f3632f02-fdf7-4ef5-856b-28f5964e8e08.png)
+
+
 
