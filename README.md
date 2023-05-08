@@ -26,6 +26,11 @@ horizantal barplot
 
 ![Screenshot (86)](https://user-images.githubusercontent.com/112294762/236884470-f0ee6e43-c3ba-433a-aaf4-7d763db3162f.png)
 
+histogram
+
+![Screenshot (87)](https://user-images.githubusercontent.com/112294762/236884887-d92865ed-b77f-4f82-a322-c81911a904f3.png)
+
+
 
 
 
