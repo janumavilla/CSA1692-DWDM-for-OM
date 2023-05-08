@@ -14,5 +14,10 @@ multiplication
 
 ![Screenshot (80)](https://user-images.githubusercontent.com/112294762/236881899-f3632f02-fdf7-4ef5-856b-28f5964e8e08.png)
 
+division
+
+![Screenshot (82)](https://user-images.githubusercontent.com/112294762/236882349-e69140ea-f4c1-4bc1-b51e-bc7679117714.png)
+
+
 
 
