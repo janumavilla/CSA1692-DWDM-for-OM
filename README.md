@@ -22,6 +22,11 @@ scatter plot
 
 ![Screenshot (84)](https://user-images.githubusercontent.com/112294762/236884141-0900d634-dfaa-4f9b-bf62-9321b7f63c3b.png)
 
+horizantal barplot
+
+![Screenshot (86)](https://user-images.githubusercontent.com/112294762/236884470-f0ee6e43-c3ba-433a-aaf4-7d763db3162f.png)
+
+
 
 
 
